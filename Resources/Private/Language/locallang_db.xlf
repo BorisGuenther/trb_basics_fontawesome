@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2014-10-01T16:25:23Z" product-name="trb_basics_fontawesome">
+		<header/>
+		<body>
+			<!-- Columns -->
+			<trans-unit id="tt_content.column.tx_trb_basics_fontawesome_icon"><source>Icon</source></trans-unit>
+		</body>
+	</file>
+</xliff>

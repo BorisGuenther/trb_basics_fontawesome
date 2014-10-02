@@ -1,0 +1,4 @@
+page {
+	#Inlcude general CSS
+	includeCSS.file5000 = EXT:trb_basics_fontawesome/Resources/Public/FontAwesome/css/font-awesome.min.css
+}
